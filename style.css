@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: 'Space Grotesk', sans-serif;
+    background-color: #6885e0;
+    color: #1212b2;
+}
+
+h1{
+    font-size: 35px;
+    margin-bottom: 8px;
+}
+
+/* Header */
+
+header {
+    background-color: #e9f45b;
+    text-align: center;
+    padding: 32px;
+}
